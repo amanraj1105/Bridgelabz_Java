@@ -1,4 +1,4 @@
-package object_oriented_programming.Keywords;
+package ObjectOrientedProgramming.Keywords;
 
 class Patient {
     public static String hospitalName = "SRM Global Hospital";

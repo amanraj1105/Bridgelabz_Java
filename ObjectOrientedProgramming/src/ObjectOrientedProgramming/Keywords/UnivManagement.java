@@ -1,4 +1,4 @@
-package object_oriented_programming.Keywords;
+package ObjectOrientedProgramming.Keywords;
 
 class Student{
     public static String universityName = "SRM University";

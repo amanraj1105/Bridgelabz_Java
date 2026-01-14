@@ -1,4 +1,4 @@
-package object_oriented_programming.Keywords;
+package ObjectOrientedProgramming.Keywords;
 
 class Product{
     private static double discount = 0.0;

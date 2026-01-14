@@ -1,4 +1,4 @@
-package object_oriented_programming.Keywords;
+package ObjectOrientedProgramming.Keywords;
 
 class Vehicle{
     public static int registrationFees = 2000;

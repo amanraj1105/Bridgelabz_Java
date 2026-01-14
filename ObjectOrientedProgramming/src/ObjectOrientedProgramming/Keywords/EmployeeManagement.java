@@ -1,4 +1,4 @@
-package object_oriented_programming.Keywords;
+package ObjectOrientedProgramming.Keywords;
 
 class Employee{
     static String companyName = "Capgemini";
