@@ -1,5 +1,9 @@
 import java.util.Scanner;
 
+/*
+ * This class calculates employee bonuses based on years of service
+ * and computes total old and new salaries.
+ */
 class EmployeeBonusArray {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);

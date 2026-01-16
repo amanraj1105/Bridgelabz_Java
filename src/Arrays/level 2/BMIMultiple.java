@@ -1,5 +1,9 @@
 import java.util.Scanner;
 
+/*
+ * This class calculates BMI for multiple people
+ * using separate arrays for weight and height.
+ */
 class BMIMultiple {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);

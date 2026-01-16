@@ -1,5 +1,9 @@
 import java.util.Scanner;
 
+/*
+ * This class calculates BMI for multiple people using a 2D array
+ * and displays their health status.
+ */
 class BMI2DArray {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);

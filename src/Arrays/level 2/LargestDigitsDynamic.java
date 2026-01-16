@@ -1,25 +1,22 @@
 import java.util.Scanner;
 
-
+/*
+ * This class finds the largest and second largest digits
+ * in a number using a dynamically resized array.
+ */
 class LargestDigitsDynamic {
-
 
     public static void main(String[] args) {
 
-
         Scanner input = new Scanner(System.in);
 
-
         int number = input.nextInt();
-
 
         int maxDigit = 10;
         int[] digits = new int[maxDigit];
         int index = 0;
 
-
         while (number != 0) {
-
 
             if (index == maxDigit) {
                 maxDigit += 10;
@@ -30,15 +27,12 @@ class LargestDigitsDynamic {
                 digits = temp;
             }
 
-
             digits[index++] = number % 10;
             number /= 10;
         }
 
-
         int largest = 0;
         int secondLargest = 0;
-
 
         for (int i = 0; i < index; i++) {
             if (digits[i] > largest) {
@@ -49,10 +43,8 @@ class LargestDigitsDynamic {
             }
         }
 
-
         System.out.println("Largest digit is " + largest);
         System.out.println("Second largest digit is " + secondLargest);
-
 
         input.close();
     }
