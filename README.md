@@ -1,5 +1,7 @@
 # BridgeLabz_Java
 
+# Daily Progress Log BridgeLabz - Training
+
 In this README documentation, I will keep updating my learnings gained while attending the training at BridgeLabz.
 
 ---
