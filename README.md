@@ -214,3 +214,76 @@ In this README documentation, I will keep updating my learnings gained while att
 
 ### Issues:
 - None
+
+## 10th January, 2026
+
+### What I’ve done:
+- Practiced Object Oriented Design Principles
+- Studied Class Diagrams and Object Modeling
+- Reviewed real-world OOP design examples
+
+### What I will do next:
+- Apply OOP design concepts in Java programs
+
+### Issues:
+- Understanding proper relationships between classes
+
+---
+
+## 11th January, 2026
+
+### What I’ve done:
+- Continued practice on Object Modeling
+- Improved class structure and design
+- Revised OOP concepts before submission
+
+### What I will do next:
+- Start Inheritance tasks
+
+### Issues:
+- Needed better clarity on UML-to-code mapping
+
+---
+
+## 12th January, 2026
+
+### What I’ve done:
+- Practiced Inheritance
+- Completed Week 2 – Day 5 tasks
+- Pushed code to GitHub
+
+### What I will do next:
+- Practice encapsulation and polymorphism
+
+### Issues:
+- Designing correct inheritance hierarchy
+
+---
+
+## 13th January, 2026
+
+### What I’ve done:
+- Practiced Encapsulation, Polymorphism, Interface, and Abstract Classes
+- Completed assigned tasks
+- Attended review session
+
+### What I will do next:
+- Fix issues based on review feedback
+
+### Issues:
+- Implementing abstraction efficiently
+
+---
+
+## 14th January, 2026
+
+### What I’ve done:
+- Practiced Object Modeling and Class Diagrams
+- Started Data Structures – LinkedList
+- Followed Git repository structure
+
+### What I will do next:
+- Complete LinkedList assignment
+
+### Issues:
+- Understanding proper Git folder structure
