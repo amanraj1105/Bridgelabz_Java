@@ -1,4 +1,4 @@
-package CoreProgramming.ClassAndObject.level1;
+package ObjectOrientedProgramming.ClassAndObject.level1;
 
 import java.util.Scanner;
 
