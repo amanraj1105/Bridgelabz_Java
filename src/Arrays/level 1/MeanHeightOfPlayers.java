@@ -1,5 +1,9 @@
 import java.util.Scanner;
 
+/*
+ * This class calculates the mean height of a football team
+ * using an array of player heights.
+ */
 public class MeanHeightOfPlayers {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);

@@ -1,5 +1,9 @@
 import java.util.Scanner;
 
+/*
+ * This class separates odd and even numbers up to a given
+ * natural number and stores them in separate arrays.
+ */
 public class OddEvenArrays {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);

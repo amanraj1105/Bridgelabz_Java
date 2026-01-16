@@ -1,5 +1,9 @@
 import java.util.Scanner;
 
+/*
+ * This class analyzes numbers to determine their sign,
+ * parity, and compares the first and last elements.
+ */
 public class NumberAnalysis {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);

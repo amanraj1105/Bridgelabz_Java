@@ -1,5 +1,9 @@
 import java.util.Scanner;
 
+/*
+ * This class finds and displays all factors of a given number
+ * using a dynamically resized array.
+ */
 public class FactorsWithDynamicArray {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);

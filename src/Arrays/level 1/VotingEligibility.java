@@ -1,5 +1,9 @@
 import java.util.Scanner;
 
+/*
+ * This class checks the voting eligibility of students
+ * based on their ages stored in an array.
+ */
 public class VotingEligibility {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);

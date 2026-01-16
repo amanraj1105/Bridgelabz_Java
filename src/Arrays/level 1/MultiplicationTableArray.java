@@ -1,5 +1,9 @@
 import java.util.Scanner;
 
+/*
+ * This class generates and displays the multiplication table
+ * of a given number using an array.
+ */
 public class MultiplicationTableArray {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);

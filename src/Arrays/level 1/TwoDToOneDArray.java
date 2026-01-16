@@ -1,5 +1,9 @@
 import java.util.Scanner;
 
+/*
+ * This class converts a 2D array into a 1D array
+ * by copying all elements sequentially.
+ */
 public class TwoDToOneDArray {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);

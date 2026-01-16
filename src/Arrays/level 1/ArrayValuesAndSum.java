@@ -1,5 +1,11 @@
 import java.util.Scanner;
 
+/*
+ * This class accepts positive numbers from the user,
+ * stores them in an array, and calculates their sum.
+ */
+
+
 public class ArrayValuesAndSum {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);

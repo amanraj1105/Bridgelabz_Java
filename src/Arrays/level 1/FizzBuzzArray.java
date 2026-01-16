@@ -1,5 +1,9 @@
 import java.util.Scanner;
 
+/*
+ * This class generates and stores FizzBuzz values in an array
+ * for numbers from 0 to the given input.
+ */
 public class FizzBuzzArray {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
